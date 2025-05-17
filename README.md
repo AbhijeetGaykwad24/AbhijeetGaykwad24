@@ -82,7 +82,7 @@ Currently, I’m refining my **Quantitative Aptitude**, polishing my **communica
   <a href="gaykwadabhijeet24@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" title="Gmail" /></a>
   <a href="https://x.com/AbhiGaykwad24"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" title="Twitter" /></a>
   <a href="https://www.instagram.com/abhijeet_gaykwad.24/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram" /></a>
-  <a href="https://yourportfolio.com"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" title="Portfolio" /></a>
+  <a href="https://happier-illuminate-483467.framer.app/"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" title="Portfolio" /></a>
 </p>
 
 ---
