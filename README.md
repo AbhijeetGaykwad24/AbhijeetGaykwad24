@@ -30,7 +30,7 @@ Currently, I’m refining my **Quantitative Aptitude**, polishing my **communica
   <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG39VUSVA8ibw/articleshare-shrink_800/articleshare-shrink_800/0/1711105351676?e=2147483647&v=beta&t=Hd7mQMWlDkAdWIpayAypvL9KZ18qOKFOT6WnMR5uWec" width="60" alt="Seaborn" />
 </p>
 
-> 🔍 I'm great at:
+> 🔍 My Specialization:
 > - Data Cleaning & Preprocessing
 > - Exploratory Data Analysis
 > - Dashboard Development
