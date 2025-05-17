@@ -1,7 +1,8 @@
  <!-- Profile Banner -->
-<p align="center">
-  <img src="https://media.canva.com/v2/image-resize/format:JPG/height:452/quality:92/uri:ifs%3A%2F%2FM%2Ff88f5f11-5902-4ab3-af88-ec12c66b1f17/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAEQ-ry25nG3YS16vis2isskKCQyUgs1ctviURMfDmJFH&exp=1747408364&osig=AAAAAAAAAAAAAAAAAAAAAHeU2OYKwHeb0yvzNoLMuTfAsNPd4o51KlRZdQjvYD2a&signer=media-rpc&x-canva-quality=screen" alt="Data Analyst - Abhijeet" />
+ <p align="center">
+  <img src="Black and White Illustrative Manager LinkedIn Banner (2).gif?raw=true" alt="Data Analyst - Abhijeet" />
 </p>
+
 
 <h1 align="center">Hey there, I'm Abhijeet 👋</h1>
 <h3 align="center">🚀 Self-Taught Data Analyst | Python • SQL • Power BI • Excel | Data-Driven Decision Maker</h3>
